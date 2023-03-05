@@ -1,0 +1,61 @@
+.main{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 100px 60px;
+    width: 200px;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.2);margin: auto;
+    width: 20%;
+    border: 3px solid rgb(55, 101, 253);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      box-sizing: content-box;
+  
+      }
+      
+
+      .second{
+        display:contents;
+        flex-direction: column;
+        height: calc(100% - 40px);
+        color: rgb(12, 12, 12);
+        font-weight: bold;
+        font-size: large;
+        font-family: cursive;
+        box-shadow: 50%;
+        border-color: blue;
+        place-content: center;
+      }
+
+      .container{
+        display:contents;
+        flex-direction: column;
+        box-shadow: inset;
+        color: cornflowerblue;
+        scroll-behavior: smooth;
+        font-family: cursive;
+      }
+
+      h1{
+        font-family: cursive;
+        color: blue;
+        
+      }
+
+      button{
+        font-family: cursive;
+        color: blue;
+        box-shadow: inset;
+      }
+
+      .Username{
+        color: blue;
+        box-shadow: inset;
+        -webkit-box-align: center;
+      }
+
+      .Password{
+        color: blue;
+
+      }
+      
+     
